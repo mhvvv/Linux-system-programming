@@ -13,3 +13,7 @@ Linux环境编程入门
 ### 一些优秀的blogs
 
 [Linux 目录结构](https://www.cnblogs.com/duanji/p/yueding2.html)
+
+### 一些优秀的公众号
+
+* 一口Linux
